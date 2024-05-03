@@ -11,7 +11,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--preto-principal);
     font-family: var(--fonte-principal);
-    font-size: 18px;
+    font-size:8px;
     font-weight: 4000;
 }
 
